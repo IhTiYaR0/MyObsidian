@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "f7f8edaf4f1d3df7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f5e442ac29e69ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34c56efa7f0c108e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обновления Config.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Обновления Config"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c63e8caba114755",
+    "type": "split",
+    "children": [
+      {
+        "id": "9842bbaa7472141d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9410a7030e07f2a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "71f223d4fd4f5895",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d34aae7acb1197a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5
+  },
+  "right": {
+    "id": "b71cfd2b2d67a98d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8e8e40838b3b7c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46c8cc9589578cab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Мой GtiHub !.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Мой GtiHub !"
+            }
+          },
+          {
+            "id": "fbff55504571016b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Мой GtiHub !.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Мой GtiHub !"
+            }
+          },
+          {
+            "id": "ff76e49219538842",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "cdd2dc2f7bf994de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Мой GtiHub !.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Мой GtiHub !"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "9410a7030e07f2a4",
+  "lastOpenFiles": [
+    "Обновления Config.md",
+    "Без названия.md",
+    "new.md",
+    "Мой GtiHub !.md",
+    "4913",
+    "Обнавлении.md",
+    "Моя заметка.md",
+    "Без названия.canvas",
+    "Без названия 1.md",
+    "Добро пожаловать.md"
+  ]
+}
