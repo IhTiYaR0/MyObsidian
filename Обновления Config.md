@@ -69,7 +69,7 @@ git checkout --orphan temp-branch && git add . && git commit -m "Начальн�
 
 ```bash
 uphypr
-git commit -m "Update 1"
+git commit -m "Update Hypr 1"
 up
 ```
 
@@ -82,7 +82,7 @@ up
 
 ```bash
 upfish
-git commit -m "Update 1"
+git commit -m "Update Fish 1"
 up
 ```
 
@@ -95,7 +95,7 @@ up
 
 ```bash
 upkitty
-git commit -m "Update 1"
+git commit -m "Update Kitty 1"
 up
 ```
 
@@ -108,7 +108,7 @@ up
 
 ```bash
 upwaybar
-git commit -m "Update 1"
+git commit -m "Update Waybar 1"
 up
 ```
 
@@ -121,7 +121,7 @@ up
 
 ```bash
 upwofi
-git commit -m "Update 1"
+git commit -m "Update Wofi 1"
 up
 ```
 
@@ -134,7 +134,7 @@ up
 
 ```bash
 upobsidian
-git commit -m "Update 1"
+git commit -m "Update Obsidion 1"
 up
 ```
 ------------------------------------------------------------
